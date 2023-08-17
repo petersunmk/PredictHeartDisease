@@ -3,8 +3,7 @@
 1. Build machine learning classification models to predict whether someone has heart disease based on medical attributes.  
 
 2. Leverage Models include Logistic Regression, K-Nearest Neighbors Classifier, and Random Forest Classifier to reach the highest accuracy in prediction
-3. 
-4. Conclusion: Highest 93f% accuracy rate is a tuned machine learning classifier by GridSearchCV AUC Score.
+3. Conclusion: Highest 93f% accuracy rate is a tuned machine learning classifier by GridSearchCV AUC Score.
 
 <img width="576" alt="image" src="https://github.com/petersunmk/PredictHeartDisease/assets/90821383/4ebbe0f2-f489-40cb-a1ac-12641a6e669b">
 
@@ -93,4 +92,4 @@ Try 3 different machine learning models:
 
 ## 6. Experimentation
 
-   Furether to do : Try a better/ other model, Like XGBoost
+Further to do: Try a better/ other models, Like XGBoost to see whether the accurate prediction may arrive 95% plus
